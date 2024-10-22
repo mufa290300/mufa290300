@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Smas Darul Falah Cihampelas<br>💬 Ask me about Github and Data Science
+* I’m currently working on Smas Darul Falah Cihampelas
+* Ask me about Github and Data Science
+* I am studying Data Science at Dicoding.
 
 
 ## 🌐 Socials:
